@@ -4,5 +4,11 @@
   "main": "index.js",
   "repository": "https://github.com/thiaguinhocoding/jest-is-fun.git",
   "author": "thiaguinhocoding <thiaguinhocoding@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^27.0.4"
+  }
 }
