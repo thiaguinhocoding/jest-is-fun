@@ -1,0 +1,8 @@
+{
+  "name": "jest-is-fun",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/thiaguinhocoding/jest-is-fun.git",
+  "author": "thiaguinhocoding <thiaguinhocoding@gmail.com>",
+  "license": "MIT"
+}
